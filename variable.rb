@@ -1,3 +1,3 @@
-def greeting()
+def greeting(x)
   puts greeting
 end
