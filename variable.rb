@@ -1,5 +1,5 @@
-x = "Hello World"
-
 def greeting(x)
-  puts greeting
+  x = "Hello World"
 end
+
+puts greeting
